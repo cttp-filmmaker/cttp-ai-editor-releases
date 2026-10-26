@@ -1,12 +1,10 @@
 {
-  "version": "1.4.0",
+  "version": "1.4.1",
   "releasedAt": "2026-10-26",
-  "downloadUrl": "https://github.com/cttp-filmmaker/cttp-ai-editor-releases/releases/download/v1.4.0/cttp-ai-editor-1.4.0.zxp",
-  "releaseNotesUrl": "https://github.com/cttp-filmmaker/cttp-ai-editor-releases/releases/tag/v1.4.0",
+  "downloadUrl": "https://github.com/cttp-filmmaker/cttp-ai-editor-releases/releases/download/v1.4.1/cttp-ai-editor-1.4.1.zxp",
+  "releaseNotesUrl": "https://github.com/cttp-filmmaker/cttp-ai-editor-releases/releases/tag/v1.4.1",
   "highlights": [
-    "7-day free trial and license keys",
-    "Update notifications",
-    "Updates replace the previous version instead of installing next to it"
+    "The Activate button in Settings > License is visible before you paste a key"
   ],
   "minimumVersion": "1.4.0"
 }
